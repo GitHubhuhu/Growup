@@ -17,7 +17,7 @@ GUI工具：
 
 Git项目文件结构：
 
-![1563437581316](C:\Users\lwx745500\AppData\Roaming\Typora\typora-user-images\1563437581316.png)
+![图1](https://github.com/GitHubhuhu/Growup/blob/master/image/1563437581316.png)
 
 
 
