@@ -16,7 +16,7 @@
    * 阿里镜像：http://maven.aliyun.com/nexus/content/groups/public
    * OsChaina：http://maven.oschina.net/content/groups/public/
 
-   ![1566184302675](C:\Users\lwx745500\AppData\Roaming\Typora\typora-user-images\1566184302675.png)
+   ![1566184195326](../.image/1566184195326.png)
 
 3. 保存
 
@@ -72,5 +72,4 @@
 
    在列表中出现storm相关包，则表示成功啦。
 
-   ![1566184847811](C:\Users\lwx745500\AppData\Roaming\Typora\typora-user-images\1566184847811.png)
-
+  ![1566184847811](../.image/1566184847811.png)
